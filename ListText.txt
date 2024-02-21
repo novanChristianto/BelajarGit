@@ -2,5 +2,5 @@
 - Text2
 - Text3
 - Text4
-- Text5 Baru1
 - Text6 Baru1
+- Text7 Baru2
